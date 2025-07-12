@@ -27,5 +27,4 @@ def run_screener_strategy(data):
         msg += f"🔗 <a href='https://www.screener.in/company/{symbol}/'>View on Screener</a>\n\n"
 
     msg += "🧪 Strategy: Mix of proven 10Y data 📊 + live market data 📡\n"
-    msg += "💬 For more: @OmStockGuruBot"
     return msg
